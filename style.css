@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+* {
+    font-family: Nunito;
+    color: white; 
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+footer {
+    display: flex;
+    background-color: #000;
+    margin-top: 200px; 
+    align-items: center;
+    justify-content: center;
+}
+
+footer .address {  
+    width: 100%;
+    max-width: 400px;
+    margin: 25px 0;
+}
+
+footer .address h3 {    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    padding-bottom: 16px;
+}
+
+footer .address h3::after {
+    display: block;
+    height: 5px;
+    width: 45px;
+    background-color: white;
+    content: '';
+    margin-top: 16px;
+    border-radius: 5px;
+}
+
+footer .address a {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+footer .contact {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+footer .contact button span {
+    color: black;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 100%;
+    padding: 13px 0;
+}
+
+footer .contact button:nth-child(1) {
+    margin-bottom: 25px;
+}
+
+footer .contact button {
+    background-color: white;    
+    width: 195px;
+    height: 38px;
+    border-radius: 5px;
+    border: 0;
+}
+
+footer .created {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+}
+
+footer .created .corebiz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+footer .created .corebiz p{
+    font-size: 10px;
+}
+
+footer .created .corebiz img{
+    width: 72px;
+    height: 18px;
+}
+
+footer .created .vtex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+footer .created .vtex p{
+    font-size: 10px;
+}
+
+footer .created .vtex img{
+    width: 52px;
+    height: 18px;
+}
+
+@media screen and (max-width: 985px) {
+    footer {
+        flex-direction: column;
+        align-items: center;
+        padding: 25px 20px;
+    }
+
+    footer .address {
+        align-items: center;
+    }
+
+    footer .contact {
+        align-items: center;
+    }
+
+    footer .created {
+        margin: 50px 0;
+        align-items: center;
+    }
+
+    footer .created .corebiz {
+        align-items: center;
+    }
+
+    footer .created .vtex {
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    footer .address {
+        padding: 25px 20px;
+    }
+}
+
+
