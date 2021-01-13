@@ -72,7 +72,7 @@ Botão direito do mouse (Open with live server)
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](license.md) file.
 
 
 Made with :heart: by <a href="https://github.com/fabramosdev" target="_blank">Fabiano Ramos</a>
