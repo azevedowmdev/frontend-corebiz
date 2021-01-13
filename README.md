@@ -9,19 +9,19 @@
 <h1 align="center">Frontend - Imersão Go Beyond - Corebiz</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/frontend?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/frontend-corebiz?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fabramosdev/frontend?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fabramosdev/frontend-corebiz?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabramosdev/frontend?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fabramosdev/frontend-corebiz?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/fabramosdev/frontend?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/fabramosdev/frontend-corebiz?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/fabramosdev/frontend?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/fabramosdev/frontend?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/fabramosdev/frontend?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/fabramosdev/frontend-corebiz?color=56BEB8" />
 </p>
 
 <!-- Status -->
